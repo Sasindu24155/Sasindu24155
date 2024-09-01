@@ -51,12 +51,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
-<a href="https://linkedin.com/in/Sasindu Senevirathna" target="blank"><img align="center" src="https://www.linkedin.com/in/sasindu-senevirathna-9b83a02b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" alt="Sasindu Senevirathna" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
-<a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="https://instagram.com/kavee_dineth" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/sasindu-senevirathna-9b83a02b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="sasindu-senevirathna" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100056968191476&mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sasindu senevirathna" height="50" width="50" /></a>
+<a href="https://www.instagram.com/sasindu_senevirathna?igsh=cWszcmM0dDV0cnFi&utm_source=qr" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="sasindu_senevirathna" height="50" width="50" /></a>
 </p>
+
 
 ---
 
