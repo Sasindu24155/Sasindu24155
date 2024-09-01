@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" width = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" width = 200px></picture></p>
 <h1 align="center">Hi 👋, I'm Sasindu Senevirathna</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
