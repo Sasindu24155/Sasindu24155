@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM**
 
-- 💬 Ask me about **Web Development | Mobile Apll Development**
+- 💬 Ask me about **Web Development | Mobile App Development**
 
 - 📫 How to reach me **sasindusenevirathna72@gmail.com**
   
